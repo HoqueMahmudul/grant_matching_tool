@@ -1,0 +1,115 @@
+Grant 1: AI-Driven Radiology Diagnostic Systems
+Agency: National Institute of Biomedical Imaging and Bioengineering (NIBIB), NIH
+Title: Accelerating Artificial Intelligence for Radiological Diagnostics (AI-RDx)
+
+Grant Description (Approx. 1000 words):
+The National Institute of Biomedical Imaging and Bioengineering (NIBIB) invites proposals for the development, validation, and potential deployment of advanced artificial intelligence (AI) systems specifically designed for diagnostic radiology. This funding opportunity supports research efforts that aim to transform the way radiologists interact with medical images by integrating intelligent tools that augment diagnostic accuracy, streamline workflows, and reduce cognitive burden on clinical professionals.
+
+Objective:
+The objective of this funding call is to support the creation of AI-powered tools tailored for use in radiological diagnostics. These tools should be capable of automated analysis of medical imaging data, including detection, classification, segmentation, and clinical interpretation of findings. The goal is not only to enhance the diagnostic throughput of radiologists but also to reduce errors and variability in image interpretation, especially in high-volume clinical settings such as emergency departments, cancer screening programs, and intensive care units.
+
+Scope:
+The scope of the grant encompasses research in computer vision, machine learning, and natural language processing to create end-to-end solutions for radiology diagnostics. Eligible imaging modalities include—but are not limited to—X-rays, computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET), and ultrasound. Proposals that include multimodal data integration (e.g., combining imaging with electronic health records or laboratory test results) are strongly encouraged.
+
+Special emphasis is placed on explainable and interpretable AI systems. Applicants should present approaches that allow radiologists and clinicians to understand and trust the model’s predictions, ideally with visualizations or textual explanations. Transparency and interpretability are essential for clinical adoption and regulatory approval.
+
+Key Areas of Interest:
+Projects should focus on one or more of the following priority areas:
+
+Automated Image Interpretation:
+
+Lesion or anomaly detection (e.g., tumors, fractures, hemorrhages).
+
+Disease staging and quantification (e.g., tumor volume estimation).
+
+Organ segmentation and anatomical localization.
+
+Multimodal AI and Decision Support:
+
+Fusion of imaging data with structured or unstructured EHR data.
+
+Integration of AI outputs into radiology reporting systems (e.g., PACS, RIS).
+
+Development of clinical decision support tools that contextualize findings.
+
+Text Generation and Language Models:
+
+Transformer-based caption generation or report summarization.
+
+Mapping visual features to structured or free-text clinical documentation.
+
+AI-assisted radiology report completion or standardization.
+
+Real-World Evaluation and Benchmarking:
+
+Use of de-identified clinical datasets from hospitals, imaging centers, or public repositories.
+
+Benchmarking against established AI models using metrics such as accuracy, specificity, sensitivity, F1 score, and AUC-ROC.
+
+Statistical rigor in testing robustness across demographic and anatomical subgroups.
+
+Human-AI Interaction:
+
+Development of user interfaces that facilitate AI-assisted diagnostics.
+
+Usability studies with radiologists or trainees.
+
+Interactive feedback loops for AI learning based on radiologist input.
+
+Clinical Readiness and Regulatory Pathways:
+
+Strategies to align model development with FDA guidance on AI/ML medical devices.
+
+Compliance with HIPAA and data governance best practices.
+
+Plans for continuous learning and performance monitoring post-deployment.
+
+Eligibility & Team Composition:
+This funding opportunity is open to academic institutions, research hospitals, non-profit organizations, and small businesses (SBIR/STTR programs are welcome to apply). Cross-disciplinary collaboration is strongly recommended. Teams should ideally include:
+
+Radiologists or imaging specialists with clinical expertise.
+
+Computer scientists or AI researchers with experience in deep learning, vision transformers, or related architectures.
+
+Experts in healthcare IT, ethics, or regulatory science.
+
+Applications that demonstrate partnerships between research institutions and clinical sites (e.g., teaching hospitals) will be prioritized.
+
+Expected Outcomes:
+By the end of the funding period, the supported project should have delivered one or more of the following:
+
+A validated AI model with strong diagnostic performance on retrospective or prospective datasets.
+
+A user-facing prototype (e.g., web or desktop application) that integrates AI outputs with radiological workflows.
+
+Publications or preprints detailing methodology and results, with code and models made publicly available wherever possible.
+
+A plan for clinical deployment, commercial translation, or submission for regulatory approval.
+
+Funding Details:
+
+Budget: Up to $500,000 in direct costs per year.
+
+Duration: Up to 3 years.
+
+Mechanism: R01 (for large-scale efforts) or R21 (for exploratory/developmental research).
+
+Deadline: Applications are accepted on a rolling basis with quarterly review cycles.
+
+Review Criteria:
+Applications will be reviewed according to NIH standard criteria (Significance, Investigators, Innovation, Approach, and Environment) with additional emphasis on:
+
+Clinical impact and relevance of the proposed AI system.
+
+Innovation in methodology (e.g., few-shot learning, uncertainty quantification).
+
+Diversity of patient populations represented in training and validation data.
+
+Plans for reproducibility, code availability, and open science.
+
+Strategies for fairness and mitigating bias in diagnostic performance.
+
+Special Considerations:
+Proposals that align with the NIH’s goals of improving healthcare equity will receive additional consideration. For example, projects that include datasets from underserved populations or demonstrate robustness across race, age, and gender groups are particularly welcome.
+
+Furthermore, collaboration with initiatives such as the Medical Imaging and Data Resource Center (MIDRC) or international datasets from the Radiological Society of North America (RSNA) will be viewed favorably.

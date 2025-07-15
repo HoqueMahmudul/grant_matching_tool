@@ -1,0 +1,113 @@
+Grant Title: Enhancing Healthcare Through Computer Vision: Research and Translation
+
+Funding Agency: National Science Foundation (NSF) – Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)
+
+Program Overview:
+
+This grant supports research at the intersection of computer vision and healthcare delivery. The goal is to develop, evaluate, and translate computer vision algorithms that can augment or automate tasks across a range of clinical environments, including hospitals, rehabilitation centers, surgical theaters, outpatient clinics, and patient homes. Unlike domain-specific medical imaging grants, this initiative encompasses all visual data in clinical workflows—including static images, video streams, depth sensors, wearable cameras, and augmented reality systems.
+
+This program encourages transformative computer vision research that can advance health-related diagnostics, monitoring, treatment support, and workflow efficiency. Projects should propose innovative solutions with measurable impact on healthcare quality, safety, accessibility, or cost-effectiveness.
+
+Research Scope and Themes:
+
+Projects may address—but are not limited to—the following thematic areas:
+
+Surgical video analysis: Tools to automatically annotate or assess intraoperative video for skills evaluation, instrument detection, surgical phase recognition, or outcome prediction.
+
+Augmented reality (AR) in the operating room: Vision-based assistance systems to support navigation during surgery or improve spatial awareness of critical anatomy.
+
+Remote patient monitoring: Vision systems in telehealth or home-care settings to detect falls, track movement, or analyze facial expressions and posture.
+
+Rehabilitation and physical therapy: Systems using vision-based motion tracking and gesture recognition to provide real-time feedback and personalize therapy sessions.
+
+In-hospital monitoring: Passive surveillance to detect signs of patient distress, wandering, or bed-exit events using depth cameras or thermal imaging.
+
+AI-driven diagnostics from visual cues: Identifying dermatological conditions, ocular diseases, or wound healing stages using camera-captured images.
+
+Health worker activity recognition: Understanding workflows, PPE compliance, hand hygiene, or staff-patient interaction patterns via vision-based observation.
+
+In all areas, the use of deep learning models, spatiotemporal modeling, object detection, semantic segmentation, or video transformers is encouraged. Hybrid systems integrating vision with other sensor modalities (e.g., audio, vital signs) or structured data (EHR) are also within scope.
+
+Technical Requirements and Innovation:
+
+The program seeks foundational and translational computer vision research applied to healthcare. Technical innovation may include:
+
+Real-time, low-latency models for embedded or edge deployment (e.g., in wearable or bedside devices)
+
+Explainable vision models with uncertainty estimation for clinical acceptance
+
+Domain adaptation and transfer learning across different institutions or populations
+
+Lightweight architectures suitable for mobile devices or resource-limited environments
+
+Learning from weak labels, noisy data, or few-shot examples
+
+Privacy-preserving or federated learning methods in clinical vision datasets
+
+Proposals should outline the specific vision pipeline (e.g., image preprocessing, model architecture, loss functions, evaluation strategy) and justify choices based on the clinical context.
+
+Data, Evaluation, and Validation:
+
+Projects must identify the type and source of visual data to be used, which may include open datasets (e.g., Cholec80, Hamlyn, MICCAI EndoVis, or Duke Ultrasound Dataset) or data collected through institutional partnerships. Proposals must include a data management plan and ethical considerations, particularly when video or facial data are involved.
+
+Evaluation must extend beyond standard computer vision metrics like accuracy or IoU. Clinical relevance should be demonstrated through:
+
+Metrics that relate to patient safety, workflow efficiency, or therapeutic effectiveness
+
+Human-in-the-loop evaluation with clinicians or patients
+
+External validation with independent datasets or environments
+
+Simulated or real-world clinical scenarios (e.g., mock ORs, patient homes)
+
+Impact and Clinical Relevance:
+
+Applicants must describe how their research will address unmet needs in healthcare delivery. Key considerations include:
+
+Will the tool improve diagnostic accuracy, treatment planning, or workflow efficiency?
+
+Does it reduce clinician burden or cognitive load?
+
+Can it function under real-world constraints (e.g., occlusion, variable lighting, limited connectivity)?
+
+How does the solution align with existing clinical protocols or standards?
+
+Projects should aim for eventual integration into clinical workflows or consumer-facing health applications. Solutions should respect the complex, noisy, and heterogeneous nature of healthcare environments.
+
+Interdisciplinary Collaboration:
+
+Given the applied nature of the grant, interdisciplinary teams are essential. Partnerships between computer vision researchers and clinicians (e.g., surgeons, nurses, therapists), healthcare administrators, biomedical engineers, or human-computer interaction experts are encouraged.
+
+Proposals should describe how clinicians will be involved in defining use cases, curating data, interpreting results, and validating system performance.
+
+Collaborations with hospitals, rehabilitation centers, health tech startups, or device manufacturers will strengthen the translational potential of the proposal.
+
+Ethics, Privacy, and Regulation:
+
+Projects must address ethical concerns related to video surveillance, patient autonomy, and informed consent. When dealing with personally identifiable or sensitive visual data, proposals should detail methods for data anonymization, de-identification, and secure storage.
+
+Compliance with HIPAA, GDPR, and institutional IRB requirements must be outlined. For tools intended for deployment in clinical practice, researchers should discuss potential regulatory pathways, even if preliminary.
+
+Funding and Duration:
+
+Typical funding levels are $300,000 to $700,000 over a 2–4 year period. The funding may cover personnel, computing resources (e.g., GPUs, cloud credits), data collection, equipment (e.g., cameras, AR devices), and clinical partnerships.
+
+High-risk, high-reward proposals with innovative methodologies or novel applications will be viewed favorably, even in early exploratory stages.
+
+Submission Instructions:
+
+Proposals should include:
+
+A detailed technical and clinical research plan
+
+Data sources, collection protocols, and management strategies
+
+Plan for clinical or user-centered validation
+
+Team expertise and roles
+
+Letters of support from healthcare institutions or collaborators
+
+Summary:
+
+This grant supports AI-powered computer vision solutions beyond imaging, aiming to transform diverse aspects of healthcare through visual understanding. From real-time operating room support to long-term rehabilitation monitoring, projects should focus on clinically meaningful innovation rooted in modern vision techniques.

@@ -1,0 +1,149 @@
+Grant Title: Intelligent Machine Learning for Hospital Operations and Clinical Decision Optimization
+
+Funding Agency: Agency for Healthcare Research and Quality (AHRQ) – Health IT and Data Science Innovations for Healthcare Delivery
+
+Program Overview:
+
+This grant program supports the development and deployment of machine learning (ML) solutions to optimize hospital operations, enhance clinical decision-making, and improve care delivery across inpatient and outpatient environments. Unlike programs focused on diagnostic imaging or clinical AI for disease prediction, this initiative emphasizes system-level applications of ML to address operational bottlenecks, inefficiencies, and resource allocation challenges in healthcare facilities.
+
+By harnessing predictive analytics, reinforcement learning, and data-driven workflow models, applicants are expected to develop tools that improve patient safety, reduce hospital costs, and streamline decision support for both administrative and clinical staff.
+
+Research Themes and Focus Areas:
+
+The following thematic areas are prioritized, but proposals may address other relevant challenges in hospital settings:
+
+Predictive analytics for patient triage: ML models to forecast patient deterioration, ICU admission likelihood, or post-surgical complications using clinical and demographic data.
+
+Resource optimization: Models for bed management, staff scheduling, equipment allocation, and medication inventory based on real-time hospital data.
+
+Treatment recommendation systems: AI assistants that synthesize lab results, vitals, and medical history to support evidence-based treatment decisions.
+
+Emergency department (ED) modeling: Systems that predict ED congestion, optimize patient routing, or support dynamic triage workflows using live and historical data.
+
+Readmission risk prediction: Early warning systems to identify patients at risk of returning to the hospital within 30 days, enabling preventive interventions.
+
+Clinical pathway optimization: ML-driven analysis of patient journeys to streamline care pathways, reduce delays, and improve outcomes.
+
+Reinforcement learning in critical care: Adaptive systems that personalize fluid administration, ventilator settings, or medication dosing based on continuous feedback from ICU patients.
+
+Billing and documentation efficiency: Natural language processing (NLP) tools that help automate clinical note review, code assignment, and administrative documentation.
+
+Technical Considerations:
+
+Proposals must outline the specific machine learning methodologies, frameworks, and data pipelines to be used. This includes:
+
+Use of ensemble models, deep learning, or probabilistic methods for structured EHR data
+
+Deployment of time-series models (e.g., LSTMs, transformers, or temporal CNNs) to capture patient dynamics
+
+Integration with existing hospital information systems, such as Epic or Cerner
+
+Real-time inference pipelines with low-latency requirements for critical care or ED settings
+
+Incorporation of interpretability tools such as SHAP, LIME, or attention visualization to support clinical trust
+
+Model retraining strategies for evolving clinical guidelines or shifting patient populations
+
+Scalability and adaptability across institutions or departments are important for long-term impact.
+
+Data Sources and Validation:
+
+Projects may use publicly available hospital datasets (e.g., MIMIC-IV, eICU) or partner directly with healthcare institutions for access to real-time or retrospective EHR, administrative, and operational data.
+
+Each proposal must include a data governance plan that addresses:
+
+HIPAA compliance and patient privacy
+
+Data preprocessing strategies, including handling of missing or sparse data
+
+Temporal labeling for events and outcomes
+
+Split strategies for training/validation/testing (e.g., patient-level splits, temporal validation)
+
+Generalization evaluation across patient cohorts, sites, or care settings
+
+Validation must demonstrate both technical performance (e.g., ROC-AUC, precision, recall) and clinical relevance, including usability testing or clinician feedback sessions.
+
+Clinical and Organizational Impact:
+
+Applicants should clearly articulate the potential impact of their tools on:
+
+Clinical outcomes (e.g., reduced mortality, fewer readmissions)
+
+Operational metrics (e.g., reduced ED wait time, optimized length of stay)
+
+Cost savings and billing accuracy
+
+Clinician workload and burnout
+
+Patient satisfaction and access to care
+
+Proposals should explain how the solution would be integrated into the current hospital workflow (e.g., via dashboards, EHR alerts, mobile apps) and outline steps toward clinical adoption and evaluation.
+
+Interdisciplinary Collaboration:
+
+Given the complexity of hospital environments, successful proposals are expected to involve collaborations between:
+
+Data scientists or ML engineers
+
+Healthcare operations experts or hospital administrators
+
+Clinical champions (e.g., physicians, nurses, intensivists)
+
+Human factors specialists or usability experts
+
+Letters of support from hospital IT departments or Chief Medical Information Officers (CMIOs) will strengthen the application.
+
+Pilot implementation in one or more hospital departments is highly encouraged, even in a limited or shadow-mode setting.
+
+Regulatory, Privacy, and Deployment Considerations:
+
+While this grant is not intended to fund FDA-regulated software-as-a-medical-device (SaMD), applicants must address:
+
+How patient data will be secured
+
+What safeguards will prevent model drift or unintended bias
+
+Whether model decisions will be reviewed or overridden by clinicians
+
+How the system will be monitored post-deployment for accuracy and impact
+
+Emphasis is placed on tools that improve care delivery while preserving human oversight.
+
+Funding and Duration:
+
+Awards typically range from $250,000 to $750,000 over a 2–3 year period. The funding may be used for:
+
+Personnel (data scientists, clinical researchers)
+
+Computing infrastructure (on-premises or cloud)
+
+Software development and deployment
+
+Data curation and annotation
+
+Pilot testing and clinician training
+
+Projects at various levels of maturity (prototype to early deployment) are welcome.
+
+Submission Components:
+
+A complete proposal must include:
+
+Detailed description of the ML algorithms and target use case
+
+Data sources and handling plan
+
+Expected clinical or operational benefit
+
+Team structure and collaboration plan
+
+Evaluation metrics (technical and clinical)
+
+Risk assessment and mitigation plan
+
+Timeline and milestone chart
+
+Summary:
+
+This grant supports machine learning solutions that target operational efficiency and clinical decision support across hospital systems. From patient triage and ED congestion to treatment planning and resource optimization, the goal is to deploy AI where it can meaningfully enhance healthcare delivery in real-world hospital settings.

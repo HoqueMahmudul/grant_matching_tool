@@ -1,0 +1,80 @@
+Grant Title: Advancing Artificial Intelligence for Multidisciplinary Medical Imaging
+
+Funding Agency: National Institute of Biomedical Imaging and Bioengineering (NIBIB), NIH
+
+Program Description:
+
+This grant supports research and development in the application of artificial intelligence (AI) technologies to a wide spectrum of medical imaging domains, including—but not limited to—radiology, pathology, ophthalmology, cardiology, dermatology, and oncology imaging. The program aims to fund innovative approaches that enhance the capabilities of medical imaging systems, support diagnostic workflows, and improve patient outcomes through robust, interpretable, and scalable AI solutions. Emphasis is placed on methods that address real-world constraints and contribute to the clinical viability of AI in healthcare.
+
+Scope and Objectives:
+
+Projects submitted under this grant should focus on leveraging AI—especially machine learning (ML) and deep learning (DL)—to improve the acquisition, interpretation, processing, and analysis of medical images. This includes conventional imaging modalities such as X-rays, magnetic resonance imaging (MRI), computed tomography (CT), ultrasound, and digital pathology slides, as well as emerging modalities including molecular imaging, whole-slide imaging, and photoacoustic imaging.
+
+Key objectives may include:
+
+Automated classification of medical images for disease detection, staging, or grading
+
+Image segmentation and anatomical landmark detection
+
+Fusion of imaging data with clinical, genomic, or electronic health record (EHR) information
+
+Image enhancement and reconstruction using AI-based denoising or super-resolution techniques
+
+Self-supervised or unsupervised learning methods for medical image representation learning
+
+Domain adaptation and transfer learning across imaging modalities and institutions
+
+Bias detection and mitigation in imaging models trained on heterogeneous datasets
+
+Model interpretability and visualization techniques for clinical decision support
+
+Technical and Clinical Expectations:
+
+Applicants should demonstrate expertise in AI methodologies, including but not limited to convolutional neural networks (CNNs), vision transformers, probabilistic models, generative approaches (e.g., VAEs, GANs), and large-scale pre-trained models. Hybrid AI frameworks that integrate symbolic reasoning or clinical rule-based knowledge with neural architectures are also encouraged. Projects should also include strategies for explainability, uncertainty estimation, and quality assurance to support responsible deployment.
+
+From a clinical standpoint, the proposed systems should be developed with eventual real-world integration in mind. This includes using datasets representative of the target population, adhering to relevant clinical standards (e.g., DICOM, HL7 FHIR), and aligning with regulatory pathways (e.g., FDA SaMD guidelines). Collaboration with clinicians, radiologists, or pathologists is strongly recommended to ensure domain relevance and user-centered design.
+
+Data and Evaluation Requirements:
+
+Use of diverse, multi-institutional, and demographically representative datasets is encouraged. Public datasets such as CheXpert, MIMIC-CXR, DeepLesion, HAM10000, LUNA16, TCGA, and ROCO can be used as baselines or complements to proprietary datasets. Applicants must detail their plans for data preprocessing, annotation, and augmentation, including any strategies for class balancing, handling label noise, or standardizing image resolutions.
+
+Evaluation metrics should be appropriate for the target task and include accuracy, precision-recall, F1 score, AUC-ROC, Dice coefficient, Jaccard index, or other clinically meaningful metrics. For generative tasks, BERTScore, BLEU, or radiology-specific metrics may be used. Proposals should describe cross-validation protocols, test/train splits, and external validation strategies to assess model generalizability.
+
+Projects involving image-text generation (e.g., radiology report synthesis) should specify the language model architecture, decoding methods (greedy, beam search), and language evaluation benchmarks (e.g., ROUGE, METEOR). Pairing vision-language models (VLMs) or multi-modal transformers with image encoders like ViT, BEiT, or EfficientNet is permitted and encouraged.
+
+Innovation and Impact:
+
+The grant particularly welcomes projects that address unmet clinical needs, such as improving diagnostic accuracy in resource-limited settings, enabling large-scale screening programs, or reducing diagnostic backlogs in areas with shortages of specialists. Use cases that demonstrate how AI can reduce inter-observer variability, lower healthcare costs, or increase access to specialized imaging interpretation (e.g., telepathology, teleradiology) are of high interest.
+
+Proposals should include a clear articulation of the potential impact on patient care, healthcare operations, or public health. Interdisciplinary projects that combine AI with biomedical engineering, public health, epidemiology, or human factors engineering are eligible and encouraged.
+
+Collaboration and Team Composition:
+
+Applicants are expected to form multi-disciplinary teams with experience in AI/ML, medical imaging, clinical practice, software engineering, and, where relevant, regulatory affairs. Strong preference will be given to proposals with active engagement from domain experts who will co-develop and evaluate prototypes within a clinical setting. Partnerships with academic medical centers, research hospitals, imaging companies, or health-tech startups are encouraged.
+
+Regulatory, Ethical, and Societal Considerations:
+
+As part of the application, researchers must address ethical considerations including bias, fairness, transparency, and patient privacy. Projects involving protected health information (PHI) must comply with HIPAA guidelines. Teams should also consider how their tools can be made interpretable to non-technical users (e.g., radiologists, pathologists) and support shared decision-making.
+
+Where relevant, applicants should propose pathways for FDA clearance or CE marking. Proposals that include validation using simulated clinical scenarios (e.g., through user-in-the-loop studies, blinded reader studies, or virtual clinical trials) will be prioritized.
+
+Funding Priorities:
+
+This program prioritizes proposals that:
+
+Deliver clinically relevant outcomes through robust AI-based image analysis
+
+Combine data across imaging and non-imaging modalities for holistic diagnostics
+
+Propose methods scalable to large health systems or adaptable to diverse environments
+
+Have a clear strategy for clinical deployment, evaluation, and feedback loops
+
+Budget and Duration:
+
+Typical funding will range between $250,000 and $600,000 per year for a project period of up to three years. Larger requests may be considered with appropriate justification and collaborative scope. Budget allocations may include funding for personnel, data acquisition, clinical trials, cloud computing resources, and regulatory consulting.
+
+Submission Guidelines:
+
+Applicants must submit a detailed technical proposal, data management plan, and letters of support from collaborating institutions. The proposal must clearly state project goals, milestones, deliverables, and evaluation criteria. Early-stage and mid-career researchers are especially encouraged to apply. Resubmissions of previously declined proposals should address prior reviewer feedback.
+

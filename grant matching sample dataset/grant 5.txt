@@ -1,0 +1,153 @@
+Grant Title: Advancing Foundational Research in Artificial Intelligence: Algorithms, Architectures, and Learning Paradigms
+
+Funding Agency: National Science Foundation (NSF) – Division of Information and Intelligent Systems (IIS)
+
+Program Overview:
+
+This program supports research that advances the foundational understanding of artificial intelligence (AI), with a focus on algorithmic development, model efficiency, learning paradigms, and theoretical underpinnings of intelligent systems. Unlike applied AI grants tied to specific domains such as healthcare or finance, this grant emphasizes general-purpose innovation in core AI methodologies that could benefit a broad range of applications across science, industry, and society.
+
+Proposals should aim to produce transformative outcomes in learning algorithms, system architectures, interpretability, fairness, robustness, and computational efficiency. Interdisciplinary collaborations are welcome, though the primary focus should remain on methodological advancement.
+
+Key Research Areas:
+
+The following themes are encouraged, though not exhaustive:
+
+1. Learning Paradigms
+Self-supervised learning: Methods that learn from unlabeled data, including contrastive learning, masked prediction, and multi-view learning.
+
+Reinforcement learning (RL): Advances in sample efficiency, hierarchical policies, safe RL, or learning in non-stationary environments.
+
+Few-shot and zero-shot learning: Systems that generalize from limited examples through transfer, meta-learning, or prototype-based methods.
+
+Online and continual learning: Algorithms capable of updating incrementally without catastrophic forgetting.
+
+2. Model Architectures
+Efficient deep networks: Design of neural architectures with improved speed, memory usage, and inference latency (e.g., sparse models, low-rank approximations, neural architecture search).
+
+Multimodal AI: Unified architectures for processing combinations of text, images, audio, video, and tabular data.
+
+Graph neural networks (GNNs): Advances in message-passing, scalability, and graph transformers for relational reasoning.
+
+Neurosymbolic models: Systems that combine deep learning with rule-based or symbolic logic for better reasoning.
+
+3. Theoretical Understanding
+Convergence and generalization: Mathematical insights into why deep networks work, including bounds on overparameterized models.
+
+Optimization landscapes: Understanding saddle points, local minima, and training dynamics of large models.
+
+Causality and reasoning: Integration of causal inference into AI models, including structure learning and counterfactual reasoning.
+
+4. AI Safety, Robustness, and Trust
+Adversarial robustness: Defense strategies against model manipulation or spoofing in image, text, or tabular domains.
+
+Fairness and bias mitigation: Formal definitions of fairness, bias detection tools, and algorithmic interventions.
+
+Explainability and interpretability: Model introspection methods such as attention visualization, saliency maps, symbolic explanations, or rule extraction.
+
+Uncertainty estimation: Bayesian deep learning, ensemble models, and confidence calibration for decision support.
+
+5. Algorithmic Efficiency
+Scalable training: Optimization of distributed training pipelines for massive datasets or models (e.g., federated learning, pipeline parallelism).
+
+Energy-efficient AI: Techniques to reduce training or inference energy consumption, including pruning, quantization, and neuromorphic computing.
+
+Low-resource AI: Creating competitive models that operate in constrained environments such as edge devices or developing regions.
+
+Application Scope and Flexibility:
+
+Although this grant is domain-agnostic, it welcomes researchers whose innovations could be transferred to real-world sectors like:
+
+Scientific discovery and simulations
+
+Autonomous vehicles or drones
+
+Education and personalized learning
+
+Robotics and embodied AI
+
+Human-computer interaction
+
+Financial forecasting and fraud detection
+
+Natural language understanding and generation
+
+However, the central goal must be to produce generally applicable AI capabilities, not build end-user products.
+
+Proposal Requirements:
+
+Applicants must clearly articulate the following in their proposal:
+
+Technical challenge: What specific algorithmic or architectural gap is being addressed?
+
+Innovation: How does the proposed approach differ from or build upon the current state-of-the-art?
+
+Theoretical justification: Where appropriate, include proofs, bounds, or complexity analysis.
+
+Experimental validation: Use publicly available benchmarks or create reproducible testbeds.
+
+Scalability: Show how the approach performs across datasets, modalities, or computational scales.
+
+Open science: Commit to releasing code, models, or benchmark datasets under open licenses.
+
+Team Composition and Collaboration:
+
+Ideal teams include a combination of:
+
+Machine learning theorists
+
+Computer scientists focused on systems or optimization
+
+Domain experts (optional) in a transfer field such as linguistics, robotics, or social sciences
+
+Graduate and undergraduate students, as this program emphasizes capacity-building
+
+Cross-institutional collaboration is allowed and may be encouraged if it brings complementary strengths.
+
+Ethics and Responsible AI:
+
+All proposals must address ethical implications of the proposed work. This may include:
+
+Impacts of biased training data
+
+Dual-use concerns
+
+Privacy implications in datasets
+
+Environmental impact from model training
+
+The inclusion of Responsible AI practices is strongly encouraged, especially for work on explainability, fairness, or safety.
+
+Funding and Duration:
+
+Projects are typically funded for 3–5 years with total budgets ranging from $300,000 to $1,200,000 depending on scope and personnel.
+
+Funding may cover:
+
+Faculty and student salaries
+
+Cloud compute resources or on-premise clusters
+
+Software development and infrastructure
+
+Workshops, travel, or dissemination efforts
+
+Early-career investigators are especially encouraged to apply under NSF CAREER tracks.
+
+Deliverables and Reporting:
+
+Each funded project will be required to:
+
+Provide annual technical progress reports
+
+Submit publications and preprints to open-access repositories
+
+Release datasets, source code, and documentation for reproducibility
+
+Participate in annual grantee workshops or symposia
+
+Projects demonstrating interdisciplinary impact or influencing other research areas will receive recognition and potential extension opportunities.
+
+Summary:
+
+This foundational AI grant funds high-impact research on the core methods that drive machine learning and intelligent systems. Whether improving model robustness, creating new learning paradigms, or exploring efficient architectures, the goal is to move beyond applications and tackle the fundamental questions of how intelligent behavior can be learned, optimized, and generalized across domains.
+

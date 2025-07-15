@@ -1,0 +1,138 @@
+Grant Title: Artificial Intelligence for Smart Agriculture and Sustainable Food Systems
+
+Funding Agency: United States Department of Agriculture (USDA) – National Institute of Food and Agriculture (NIFA)
+
+Program Overview:
+
+The USDA’s NIFA announces a funding opportunity aimed at advancing the application of artificial intelligence (AI) and machine learning (ML) in agriculture and food systems. This program seeks innovative, interdisciplinary proposals that demonstrate how intelligent technologies can optimize agricultural production, enhance resource efficiency, reduce environmental impact, and support global food security.
+
+By integrating AI-driven solutions into the agricultural domain, this initiative encourages the development of tools and systems that support farmers, researchers, agribusinesses, and policymakers in making data-informed decisions. The emphasis is on deploying AI for real-world agricultural outcomes, not on theoretical or healthcare-related applications.
+
+Program Goals:
+
+The program encourages projects that meet one or more of the following objectives:
+
+Improve crop yield prediction, pest and disease detection, and plant phenotyping using AI models.
+
+Develop autonomous farming systems including self-driving tractors, drones, and robotic harvesters.
+
+Enhance soil health and irrigation efficiency using AI-integrated sensors and predictive analytics.
+
+Leverage computer vision and remote sensing for land-use classification, disease mapping, or nutrient stress analysis.
+
+Apply time-series forecasting and anomaly detection to livestock management and feed optimization.
+
+Integrate AI into food supply chain tracking, packaging automation, and food quality monitoring.
+
+Priority Areas:
+
+This funding opportunity supports, but is not limited to, the following research domains:
+
+1. AI-Enabled Precision Agriculture
+Use of deep learning and computer vision models for monitoring crop conditions from UAVs or satellites.
+
+Integration of soil sensors and weather data with ML for microclimate-aware irrigation systems.
+
+Decision-support platforms that guide fertilization, pesticide application, or planting schedules.
+
+2. Livestock and Animal Health Monitoring
+Detection of early signs of disease through AI-enabled camera systems or audio monitoring.
+
+Animal behavior recognition to optimize welfare and productivity.
+
+Predictive analytics for breeding and yield outcomes based on historical and genomic data.
+
+3. Autonomous and Robotics Systems
+Development of AI algorithms for path planning, object detection, and obstacle avoidance in farm robots.
+
+Harvesting robots capable of identifying ripe produce using image classification models.
+
+Integration of multi-modal sensor data to guide autonomous equipment operation.
+
+4. Climate Resilience and Sustainability
+AI for adaptive decision-making in changing weather or drought conditions.
+
+Modeling soil erosion, carbon sequestration, or nutrient leaching using ML.
+
+Development of sustainable AI tools that reduce water, fertilizer, and energy consumption.
+
+5. Food Safety and Supply Chain Optimization
+Predictive modeling for spoilage, contamination detection, or food fraud prevention.
+
+Image and sensor-based inspection of produce for grading and packaging.
+
+Real-time analytics for logistics optimization in agricultural distribution networks.
+
+Project Requirements:
+
+To qualify, proposals must:
+
+Clearly define the agricultural problem and the role of AI in solving it.
+
+Demonstrate feasibility through prior work, preliminary results, or pilot data.
+
+Show that the AI system will be tested in real or simulated agricultural environments.
+
+Explain how results will impact end-users such as farmers, cooperatives, or supply chain managers.
+
+Projects that focus solely on healthcare, medical imaging, or non-agricultural domains are not eligible for this program.
+
+Team Composition:
+
+NIFA encourages the formation of multidisciplinary teams, including:
+
+Agricultural scientists and plant pathologists
+
+Computer scientists and AI researchers
+
+Engineers with expertise in robotics or sensor systems
+
+Economists or social scientists for adoption and impact analysis
+
+Industry collaborators from agritech or food tech sectors
+
+Collaborations with minority-serving institutions, rural universities, and agricultural extension offices are highly encouraged.
+
+Data and Evaluation:
+
+Funded proposals must address data availability and model performance:
+
+Datasets should be open-access when possible, or clearly described in terms of structure, labels, and source.
+
+Models must be evaluated using relevant agricultural metrics such as precision in disease classification, cost-benefit ratios, energy use reduction, or yield improvement.
+
+Emphasis is placed on robustness, scalability, and explainability of AI systems to ensure practical deployment.
+
+Funding and Timeline:
+
+Funding levels range from $250,000 to $1,000,000 over 2–4 years, depending on project scope.
+
+Funds may support:
+
+Salaries for researchers and technicians
+
+Equipment for data collection and processing
+
+Software and model development
+
+Field testing and stakeholder engagement
+
+Proposals that include outreach components to educate farmers, extension agents, or students will receive favorable review.
+
+Deliverables:
+
+Grantees will be expected to:
+
+Publish results in open-access journals or agricultural AI repositories.
+
+Share pre-trained models and data (as permitted).
+
+Develop demonstration videos, user guides, or mobile tools for farmers.
+
+Report annually on AI performance, adoption barriers, and environmental/economic impacts.
+
+Conclusion:
+
+The USDA-NIFA’s Smart Agriculture AI Program supports transformative research that brings the power of artificial intelligence into the hands of agricultural stakeholders. This initiative prioritizes applied AI that is explainable, field-tested, and impactful for farming systems, environmental resilience, and food security.
+
+This program does not support medical, radiological, or general healthcare applications of AI.
